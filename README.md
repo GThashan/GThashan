@@ -1,3 +1,5 @@
+![Blue Navy And White Geometric Technology LinkedIn Banner (1)](https://github.com/GThashan/GThashan/assets/124758477/6eee7a02-f126-4aee-bdc1-ed986a5f4f54)
+
 <h1 align="center">Hi 👋, I'm Gamage Tharindu Hashan</h1>
 <h3 align="center">A passionate frontend web developer and Proficient in UI/UX Design (Figma) from Sri Lanka</h3>
 
